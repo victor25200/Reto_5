@@ -23,6 +23,10 @@ else:
 
 [![image.png](https://i.postimg.cc/0jQtHb5w/image.png)](https://postimg.cc/47DbY49f)
 [![image.png](https://i.postimg.cc/sD0FyCtz/image.png)](https://postimg.cc/3dpfCV8f)
+# Punto 2
+Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
+## Código
+## Programa funcionando
 #  punto 3:
 Dado un carácter, construye un programa en Python para determinar si el carácter es un dígito o no.
 ## Código
@@ -85,3 +89,26 @@ else:
 ## Programa funcionando
 [![image.png](https://i.postimg.cc/fLDrpk7Z/image.png)](https://postimg.cc/t1vkVqmm)
 [![image.png](https://i.postimg.cc/j5BJCn8Y/image.png)](https://postimg.cc/XGcvzqSs)
+# Punto 6:
+Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
+## Código
+```python
+a : float
+b : float
+c : float
+a = float(input("Ingrese la primera longitud: ")) 
+b = float(input("Ingrese la segunda longitud: ")) 
+c = float(input("Ingrese la tercera longitud: ")) 
+print("Las longitudos son a =" + str(a) + " b="+str(b)+" c="+str(c))
+if a+b<c :
+   print("Con estas longitude se puede construir un triangulo ")
+elif a+c < b:
+     print("Con estas longitude se puede construir un triangulo ")
+elif b+c < a:
+     print("Con estas longitude se puede construir un triangulo ")
+else :
+      print("Con estas longitude no se puede construir un triangulo ")
+```
+## Programa funcionando
+[![image.png](https://i.postimg.cc/LstHjY6M/image.png)](https://postimg.cc/HJLDgLyS)
+[![image.png](https://i.postimg.cc/d0YFQsRN/image.png)](https://postimg.cc/NKpSpwzR)
