@@ -83,5 +83,5 @@ else:
      print("El punto  (" + str(x) + ","+ str(y)+  ") esta en el circulo")
 ```
 ## Programa funcionando
-[![image.png](https://i.postimg.cc/9FJGV0G1/image.png)](https://postimg.cc/3d0yFKfD)
-[![image.png](https://i.postimg.cc/zfW7J5DB/image.png)](https://postimg.cc/Ffr3ZML5)
+[![image.png](https://i.postimg.cc/fLDrpk7Z/image.png)](https://postimg.cc/t1vkVqmm)
+[![image.png](https://i.postimg.cc/j5BJCn8Y/image.png)](https://postimg.cc/XGcvzqSs)
