@@ -26,7 +26,18 @@ else:
 # Punto 2
 Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
 ## Código
+```python
+x = (input("Ingrese una longitud: "))
+a = ord(x)
+if a % 2 == 0: 
+    print("El código ASCII de "+ str(x) +" es par")
+else:
+    print("El código ASCII de "+ str(x) +" no es par")
+```
 ## Programa funcionando
+
+[![image.png](https://i.postimg.cc/FHHSgGBQ/image.png)](https://postimg.cc/6yFTBVKH)
+[![image.png](https://i.postimg.cc/SR42XGM3/image.png)](https://postimg.cc/0Mt2FDZ0)
 #  punto 3:
 Dado un carácter, construye un programa en Python para determinar si el carácter es un dígito o no.
 ## Código
