@@ -71,10 +71,10 @@ elif x < 0:
 else:
     print( "El numero " + str(x)+ " es el neutro para la suma")
 ```
-Programa funcionando
-[![image.png](https://i.postimg.cc/fTQL1C4N/image.png)](https://postimg.cc/z3p8gnXt)
-[![image.png](https://i.postimg.cc/mr1WLxM6/image.png)](https://postimg.cc/NytzDzd1)
-[![image.png](https://i.postimg.cc/YSYDDtQk/image.png)](https://postimg.cc/f3WvJnHg)
+## Programa funcionando
+[![image.png](https://i.postimg.cc/vH6k8Lzb/image.png)](https://postimg.cc/8jNttv90)
+[![image.png](https://i.postimg.cc/8P149R0Z/image.png)](https://postimg.cc/3Wc2Dv7G)
+[![image.png](https://i.postimg.cc/nrnK8x0X/image.png)](https://postimg.cc/6214RksK)
 # Punto 5:
 Dado el centro y la radio de un círculo, determine si un punto de R2 pertenece o no al interior del círculo.
 ## Código
